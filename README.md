@@ -35,6 +35,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+![download__2_-removebg-preview (1)](https://github.com/WizardAmit/WizardAmit/assets/150200139/640ccb9d-3fbe-4f3f-80ee-4e46a49c5bc3)
 <br/>
 
 <hr/>

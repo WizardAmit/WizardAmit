@@ -1,5 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Amit(111|nd Kanani)|https://github.com/WizardAmit)" title="👋 Hi there! I'm (Amit(111|nd Kanan)|https://github.com/WizardAmit)"/>](https://github.com/WizardAmit/)
-
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amit+Kanani!;" />

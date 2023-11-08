@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=microsoftSQL, paython, microsoftpowerbi" />
+    <img src="https://skillicons.dev/icons?i=microsoftSQL,paython,microsoftpowerbi" />
     <img src="https://skillicons.dev/icons?i=mysql,microsoftexcel,python" /><br>
 </div>
 

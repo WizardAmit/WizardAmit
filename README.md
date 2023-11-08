@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=microsoftSQL, paython, microsoftpowerbi" />
-    <img src="https://skillicons.dev/icons?i=mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,microsoftexcel" /><br>
 </div>
 
 <br/>

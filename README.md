@@ -35,7 +35,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=microsoftSQL,paython,microsoftpowerbi" />
-    <img src="https://skillicons.dev/icons?i=mysql,microsoftexcel,python" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,microsoftexcel,python" ![Power-BI](https://github.com/WizardAmit/WizardAmit/assets/150200139/817bbf4c-faa9-40ad-a293-bf202bf75a78)
+/><br>
 </div>
 
 <br/>

@@ -1,16 +1,16 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amit+Kanani!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center"> A passionate individual deeply rooted in the Maritime industry, coming from a Mechanical background, and driven by a profound love for technology. </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently pursing Masters degree in ** Operations and Management of Maritime Systems**
+ 🔭 I’m currently pursing Masters degree in **Operations and Management of Maritime Systems**
  
  🌱 I’m currently learning **SQL, MS Excle VBA, Power BI**
 
@@ -33,11 +33,11 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+<!--- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://github.com/WizardAmit/WizardAmit/assets/150200139/640ccb9d-3fbe-4f3f-80ee-4e46a49c5bc3"alt="html" style="vertical-align:top; margin:1px">
 <br/>
-
+-->
 <hr/>
 
 <div align="center">
@@ -49,7 +49,7 @@
 </div>
 
 <hr/>
-
+<!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>

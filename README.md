@@ -33,17 +33,23 @@
 
  <hr/>
  
-<!--- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
--- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://github.com/WizardAmit/WizardAmit/assets/150200139/640ccb9d-3fbe-4f3f-80ee-4e46a49c5bc3"alt="html" style="vertical-align:top; margin:1px">
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+![Static Badge](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/Microsoft%20Excel%20(VBA)-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=green&labelColor=black&color=black)
+
+
+
+
 <br/>
--->
+
 <hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" >
   
   <br/><br/><br/>
 </div>

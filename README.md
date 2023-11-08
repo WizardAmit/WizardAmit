@@ -33,12 +33,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=microsoftSQL,paython,microsoftpowerbi" />
-    <img src="https://skillicons.dev/icons?i=mysql,microsoftexcel,python,|Parameter|<a href="PNG/Parameter.png"><img src="PNG/Parameter.png" height="25"/></a>|<a href="SVG/Parameter.svg"><img src="SVG/Parameter.svg"" height="25"/></a>|/><br>
-</div>
 
-<br/>
 <hr/>
 
 <div align="center">

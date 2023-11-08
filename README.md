@@ -1,3 +1,4 @@
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Amit(111|nd Kanani)|https://github.com/WizardAmit)" title="👋 Hi there! I'm (Amit(111|nd Kanan)|https://github.com/WizardAmit)"/>](https://github.com/WizardAmit/)
 
 
 <h1 align="center">
@@ -11,7 +12,7 @@
 <div align="center">
  
  🔭 I’m currently pursing Masters degree in **Operations and Management of Maritime Systems**
- 
+ i
  🌱 I’m currently learning **SQL, MS Excle VBA, Power BI**
 
  
@@ -39,8 +40,6 @@
 ![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Excel%20(VBA)-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=green&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/SAP%20MM-0FAAFF?style=for-the-badge&logo=sap&logoColor=blue&labelColor=white&color=black)
-
-
 
 
 <br/>
